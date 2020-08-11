@@ -7,6 +7,3 @@ origin = refugee_data ["Origin"]
 print (origin)
 total_pending_start_year = total_pending_start_year.replace ("*", 0)
 import matplotlib.pyplot as plt
-plt.plot (total_pending_start_year)
-plt.ylabel ("Total Pending Start Year")
-plt.show ()
